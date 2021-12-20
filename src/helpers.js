@@ -29,7 +29,7 @@ export const hatchArray = [
     nr: 1,
     img: "./img/1.jpg",
     text:
-      "Can I have your picture so I can show Santa what I want for Christmas?",
+      "Can I have your  so I can show Santa what I want for Christmas?",
     open: false
   },
   {
